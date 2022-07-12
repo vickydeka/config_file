@@ -1,0 +1,6 @@
+table_add ipv4 ipv4_forward 192.168.1.121 => 04:ea:56:b3:8f:80 1
+table_add ipv4 ipv4_forward 192.168.12.191 => 96:01:c1:d6:a2:1a 0
+table_add ipv4 ipv4_forward 192.168.12.160 => 0c:0e:76:1c:91:18 0
+table_add ipv4 ipv4_forward 192.168.1.122 => 1c:5f:2b:9f:69:96 1
+table_add ipv4 ipv4_forward 192.168.12.60 => d8:9c:67:2b:08:e3 0
+table_add ipv4 ipv4_forward 192.168.12.41 => 04:ea:56:b3:8f:80 0
